@@ -1,1 +1,1 @@
-Estes arquivos nesta pasta são para o meu aprendizado de como colocar arquivos para download no site.
+These archives in this folder are for my learnship of how to put downloadable archives on the site.
